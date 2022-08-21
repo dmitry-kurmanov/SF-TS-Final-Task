@@ -1,0 +1,21 @@
+{
+  "name": "sf-ts-final-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 5566"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrykurmanov/SF-TS-Final-Task.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/dmitrykurmanov/SF-TS-Final-Task/issues"
+  },
+  "homepage": "https://github.com/dmitrykurmanov/SF-TS-Final-Task#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
