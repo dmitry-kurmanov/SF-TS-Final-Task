@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -p 5566"
+    "start": "http-server -p 5566",
+    "build": "npx tsc"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "homepage": "https://github.com/dmitrykurmanov/SF-TS-Final-Task#readme",
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
   }
 }
